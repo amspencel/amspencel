@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amspencel or Andrew
 - 👀 I’m interested in Computer Science. I'm looking to expand my knowledge in coding languages and systems. So far I've learned Python and Java :)
-- 🌱 I’m currently learning Computer Science at UVA. I've taken Intro CS, DSA 1, DMT. Am currently taking CSO 1 and SDE.
+- 🌱 I’m currently learning Computer Science at UVA. I've taken Intro CS, Data Structures and Algorithms (DSA), Discrete Math (DMT),Computer Systems and Organization (CSO), and Software Dev Essentials. I will be taking CSO 2 and DSA 2 this coming semester.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: linkedin.com/in/andrewspencerCS; kfy2qa@virginia.edu;
 
